@@ -14,7 +14,7 @@ I created this repository to:
 - Track my progress as I explore new technologies.
 
 ---
-## file organization
+## File Organization
 
 I have divided this repository into two parts
  - Front End : the appearence part/the client side languages
